@@ -139,4 +139,4 @@ LLM Evaluation (5 models, zero-shot)
 
 **Agnes Jeni Makay**  
 Master of Data Science and Decisions, UNSW Sydney  
-[LinkedIn](https://www.linkedin.com/in/agnes makay) · [GitHub](https://github.com/nesaugust) · [Portfolio](https://share.streamlit.io/nesaugust)
+[LinkedIn](https://www.linkedin.com/in/agnes-makay) · [GitHub](https://github.com/nesaugust) · [Portfolio](https://share.streamlit.io/nesaugust)
