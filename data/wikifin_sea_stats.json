@@ -1,0 +1,19 @@
+{
+  "total_qa_pairs": 244,
+  "by_language_count": {
+    "English": 103,
+    "Indonesian": 67,
+    "Tagalog": 20,
+    "Thai": 21,
+    "Vietnamese": 33
+  },
+  "by_subdomain_count": {
+    "Banking & Credit": 62,
+    "Economic Indicators": 5,
+    "Financial Markets": 27,
+    "Financial Regulation": 3,
+    "General Finance": 48,
+    "Macroeconomics": 89,
+    "Personal Finance": 10
+  }
+}
