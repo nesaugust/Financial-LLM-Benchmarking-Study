@@ -10,9 +10,9 @@ secrets.py
 config_local.py
 
 # Data files — too large for GitHub, contain Wikipedia extracts
-data/
-*.csv
-*.json
+#data/
+#*.csv
+#*.json
 
 # Keep stats file (small, useful for readers)
 !data/wikifin_sea_stats.json
